@@ -15,6 +15,7 @@ The project includes:
 ---
 
 ## Folder Structure
+```
 spotify-analysis-project/
 │
 ├── data/                 # Contains the raw dataset (spotify-2023.csv)
@@ -24,7 +25,7 @@ spotify-analysis-project/
 ├── docs/                 # Final report and supporting documentation
 │
 └── images/               # Screenshots of dashboards
----
+```
 
 ## Dashboards
 The Tableau dashboards created for this project provide insights into:
